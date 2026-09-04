@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/en/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/proyectos</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/en/projects</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/proyectos/coca-cola</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos/coca-cola"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects/coca-cola"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/en/projects/coca-cola</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos/coca-cola"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects/coca-cola"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/proyectos/polestar</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos/polestar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects/polestar"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/en/projects/polestar</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos/polestar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects/polestar"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/proyectos/leancore-studio</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos/leancore-studio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects/leancore-studio"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/en/projects/leancore-studio</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos/leancore-studio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects/leancore-studio"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/proyectos/leancore-web</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos/leancore-web"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects/leancore-web"/>
+  </url>
+  <url>
+    <loc>https://hacu9.github.io/victor-portafolio/en/projects/leancore-web</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hacu9.github.io/victor-portafolio/proyectos/leancore-web"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hacu9.github.io/victor-portafolio/en/projects/leancore-web"/>
+  </url>
+</urlset>
